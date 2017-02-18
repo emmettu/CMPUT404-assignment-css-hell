@@ -1,0 +1,41 @@
+body {
+    font-family: "Comic Sans MS";
+    background: linear-gradient(red, purple);
+    color: green;
+}
+
+.banner {
+    padding: 0.5em;
+}
+
+.banner img {
+    position: relative;
+    border: 20px solid orange;
+    height: 100px;
+    width: 200px;
+}
+
+.banner h1 {
+    margin: 0px;
+    font-weight: lighter;
+}
+
+.main {
+    background: radial-gradient(black, white, black);
+    display: flex;
+}
+
+.stuff {
+    width: 100%;
+    margin-left: 1em;
+}
+
+.side {
+    float: right;
+    padding: 0px 10px 10px 10px;
+    background: radial-gradient(black, black, black, white);
+}
+
+.side p {
+    display: block;
+}

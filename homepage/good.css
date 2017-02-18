@@ -1,0 +1,39 @@
+body {
+    font-family: Helvetica;
+    background: whitesmoke;
+    color: rgb(10, 46, 74);
+}
+
+.banner {
+    padding: 0.5em;
+}
+
+.banner img {
+    position: relative;
+    border: 3px solid rgb(10, 46, 74);
+}
+
+.banner h1 {
+    margin: 0px;
+    font-weight: lighter;
+}
+
+.main {
+    background: powderblue;
+    display: flex;
+}
+
+.stuff {
+    width: 100%;
+    margin-left: 1em;
+}
+
+.side {
+    float: right;
+    padding: 0px 10px 10px 10px;
+    background-color: rgb(204, 255, 204);
+}
+
+.side p {
+    display: block;
+}

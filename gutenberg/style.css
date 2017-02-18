@@ -1,0 +1,45 @@
+body {
+    font-family: Courier New;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: darkslategray;
+    color: springgreen;
+    column-count: 2;
+}
+
+h1 {
+    font-weight: bolder;
+    border-bottom: 6px solid;
+}
+
+h2 {
+    font-weight: lighter;
+}
+
+h3 {
+    font-weight: lighter;
+}
+
+h4 {
+    font-weight: lighter;
+}
+
+pre {
+    column-count: 1;
+    display: none;
+}
+
+hr {
+    border: 1px solid;
+    color: springgreen;
+}
+
+p {
+    text-align: left-justify;
+    text-indent: 2em;
+    margin: 1;
+}
+
+img {
+    border: 1em solid;
+}
