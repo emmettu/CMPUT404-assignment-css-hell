@@ -4,7 +4,7 @@ body {
     margin-right: 10%;
     background-color: darkslategray;
     color: springgreen;
-    column-count: 2;
+    -moz-column-count: 2;
 }
 
 h1 {
@@ -42,4 +42,6 @@ p {
 
 img {
     border: 1em solid;
+    resize: both;
+    width: 80%;
 }
