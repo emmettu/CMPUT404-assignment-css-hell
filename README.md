@@ -1,5 +1,6 @@
 Assignment: CSS Hell
 ====================
+Emmett Underhill
 
 You will skin 3 project gutenberg stories with custom CSS.
 
@@ -20,5 +21,10 @@ Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
+
+Resources Used
+==============
+
+https://www.w3schools.com/css/
 
 
